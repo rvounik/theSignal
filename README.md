@@ -1,4 +1,4 @@
-# ray4
+# The Signal
 
 ![Alt text](/assets/images/screenshot.png?raw=true "screenshot")
 
